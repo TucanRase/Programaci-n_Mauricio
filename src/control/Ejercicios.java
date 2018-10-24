@@ -190,11 +190,12 @@ public class Ejercicios {
 		//
 		int a = 10, b = 17, c = 14, d = 11;
 		// int menor= Ejercicios.calNumMenor(a, b, c, d);
-		int menor = ejercicios.calNumMenor(a, b, c, d);
+		// int menor = ejercicios.calNumMenor(a, b, c, d);
 		// System.out.println("el menor es : " + menor);
 
 		// ejercicios.imprimeAleatorios(6, 1, 6);
-		int[] estadisticaDados = ejercicios.generaEstadisticaAparicion(1000, 1, 6);
+		// int[] estadisticaDados = ejercicios.generaEstadisticaAparicion(1000,
+		// 1, 6);
 		// factorial(5);
 
 		// serieFibonacci(8);
